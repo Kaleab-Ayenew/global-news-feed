@@ -1,0 +1,1 @@
+C:\Users\COM-SORC\Documents\0all\projects\PYTHON\global-news-feed\app_env\Scripts\Activate.ps1
